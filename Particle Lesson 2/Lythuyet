@@ -1,0 +1,13 @@
+1.Gõ trực tiếp một tập tài liệu D gồm 10 tài liệu vào trong code. Mỗi tài liệu gồm
+tiêu đề và nội dung. Có thể tạo hai danh sách: một danh sách lưu các tiêu đề và
+danh sách kia lưu các nội dung tương ứng.
+2. Xây dựng chỉ mục ngược trên tập tài liệu D, trong đó có lưu mã tài liệu (chỉ số
+của phần tử tương ứng trong danh sách ở bước 1) và có lưu phần tiêu đề vào chỉ
+mục, nhưng không lưu phần nội dung (vì kích thước lớn).
+3. Nhập vào (từ bàn phím) một câu truy vấn gồm nhiều từ.
+4. Xử lý câu truy vấn và hiển thị kết quả theo quy cách: dòng đầu tiên là số kết quả,
+còn mỗi dòng tiếp theo gồm số thứ tự (bắt đầu từ 1) và phần tiêu đề của mỗi kết
+quả.
+5. Nhập vào (từ bàn phím) số thứ tự của một kết quả.
+6. Hiển thị phần nội dung của kết quả đã chọn (dùng mã tài liệu có lưu trong kết
+quả để truy nhập danh sách ở bước 1).
